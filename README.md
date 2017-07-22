@@ -5,7 +5,7 @@
 <p>#cool #trendy #hip #basicallyacsmajor</p>
 <p><a href="http://silentnightingale.tumblr.com">tumblr</a></p>
 <p><a href="https://www.instagram.com/chowmander__/">instagram</a></p>
-<h1>scientific publications and posters</h2>
+<h2>scientific publications and posters</h2>
 <p>2017</p>
 <p><a href="http://ieeexplore.ieee.org/document/7863433/?reload=true">IEEE Conference 2017. "Bioinspired vascular structures via 3D printing and suspended microfluidic"</a></p>
 <p>2016</p>
