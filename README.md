@@ -9,7 +9,7 @@
 <p>2017</p>
 <p><a href="http://ieeexplore.ieee.org/document/7863433/?reload=true">IEEE Conference 2017. "Bioinspired vascular structures via 3D printing and suspended microfluidic"</a></p>
 <p>2016</p>
-<p><a href="/Lobolab">Lobo Lab. "Examining the Effect of Repeated Cocaine Exposure on Epigenetic Modifications Within the Nucleus Accumbens"</a></p>
+<p><a href="https://github.com/chowmanderr/amanda/raw/gh-pages/Lobolab.pdf">Lobo Lab. "Examining the Effect of Repeated Cocaine Exposure on Epigenetic Modifications Within the Nucleus Accumbens"</a></p>
 <p>2015</p>
 </body>
 </html>
